@@ -21,7 +21,7 @@ Contains metadata about 120 news articles, with 5 news articles per claim.
 - **news_source_reputation**: reputation of the news outlet, ranging between -1 (low) to +1 (high); as determined using the methodology described in the paper in Section 2.2
 - **news_headline**: title of the news article 
 - **news_stance**: stance of the news article towards the claim, ranging from -1 (deny) to 0 (neutral) to +1 (support); as determined using the methodology described in the paper in Section 2.2
-- **news_url**: URL of the news article (as in Apri-May 2021)
+- **news_url**: URL of the news article (as collected during April-May 2021)
 
 
 
