@@ -6,6 +6,13 @@ This repository contains the data for the paper **The Effects of Interactive AI 
 - DOI: https://doi.org/10.1145/3498366.3505786
 - arXiv: https://arxiv.org/pdf/2202.08901.pdf
 
+
+## Demo
+The mock AI fact-checking system used in the study can be accessed by clicking the link below.
+- [Link to mock AI fact-checking system](https://volt.ischool.utexas.edu/viz/fcweb_ui_demo.php)
+
+
+
 ## Teaser Video for CHIIR 2022
 
 [![YouTube Video: CHIIR'22 Poster Boaster Video](https://img.youtube.com/vi/aic030YwiLA/0.jpg)](https://www.youtube.com/watch?v=aic030YwiLA)
